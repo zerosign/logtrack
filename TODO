@@ -1,0 +1,7 @@
+-
+
+- each node maintain storage for index & data with different EBS volume each that optimized for both
+  type of operations.
+
+- Need to take a look into grafana to create new datasource definition and interface in grafana
+  [Grafana Datasource API](https://grafana.com/docs/plugins/developing/datasources/)

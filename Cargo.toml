@@ -1,2 +1,2 @@
 [workspace]
-members = ["logtrack-core", "logtrack-store", "logtrack-api", "logtrack-stream", "logtrack-query"]
+members = ["logtrack-core", "logtrack-store", "logtrack-api", "logtrack-stream", "logtrack-query", "logtrack-index"]
